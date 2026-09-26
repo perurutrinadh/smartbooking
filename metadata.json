@@ -1,0 +1,6 @@
+{
+  "name": "BVCITS SmartBook",
+  "description": "Smart Facility Booking & Management System for Bonam Venkata Chalamayya Institute of Technology & Science (BVCITS). Find. Book. Manage.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
